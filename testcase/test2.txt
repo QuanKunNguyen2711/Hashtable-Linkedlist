@@ -1,0 +1,7 @@
+INSERT x number
+INSERT y string
+ASSGIN y 'quan cutE HotMe 12'
+BEGIN
+INSERT y string
+END
+PRINT

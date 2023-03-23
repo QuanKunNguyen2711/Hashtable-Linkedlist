@@ -1,0 +1,14 @@
+INSERT x number
+INSERT y string
+ASSIGN x 15
+ASSIGN y '12 Qan'
+INSERT z string
+ASSIGN z 'qu1 Ng'
+BEGIN
+INSERT y number
+BEGIN
+INSERT z number
+INSERT x string
+RPRINT
+END
+END
